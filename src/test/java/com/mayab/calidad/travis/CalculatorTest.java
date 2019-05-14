@@ -2,7 +2,7 @@ package com.mayab.calidad.travis;
 
 import static org.junit.Assert.*;
 
-import or.junit.After;
+import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -35,7 +35,7 @@ public class CalculatorTest {
 	@Test
 	public void testDiv() {
 		Calculator calc = new Calculator();
-		assertEquals(calc.div(8, 2), 4);
+		assertEquals(calc.div(8, 2), 5);
 	}
 
 }
