@@ -2,7 +2,7 @@ package com.mayab.calidad.travis;
 
 import static org.junit.Assert.*;
 
-import org.junit.After;
+import or.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
